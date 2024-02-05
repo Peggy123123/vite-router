@@ -1,0 +1,1 @@
+import{_ as s,c as t,o as c,a as e}from"./index-6yo97Gfc.js";const o={},a={class:"container mt-3"},n=e("div",{class:"banner"},[e("h2",{class:"mt-5 pt-5"},"我是首頁")],-1),r=[n];function _(d,i){return c(),t("div",a,r)}const m=s(o,[["render",_]]);export{m as default};
